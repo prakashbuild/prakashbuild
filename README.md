@@ -59,29 +59,6 @@ I'm a full stack developer from Tamil Nadu, India, working as a **Full Stack Dev
 
 ---
 
-## 📦 Featured Work (VictorFlow)
-
-| Project | What it does | Tech |
-|---|---|---|
-| **[VictorFlow Store](https://main.d3se06asjnpgn0.amplifyapp.com/)** | Marketplace for 120+ Webflow and Framer templates with an integrated payment gateway | React, Next.js, AWS, CloudFront |
-| **Gated PDF** | Multi-tenant lead-capture platform: private PDF storage, per-PDF gate rules, Webflow OAuth and CMS mapping, white-label email via Resend, analytics, 33-permission roles and audit log | Webflow API, OAuth, Resend |
-| **LandingPageFlow** | Webflow to Next.js migration with SEO-safe launch and an AI chatbot with free-tier API fallback (Puter, Groq, NVIDIA) | Next.js, Tailwind CSS, Payload CMS, Cloudflare |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prakashbuild&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashbuild&layout=compact&hide_border=true" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=prakashbuild&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 I'm open to full stack, Next.js and headless CMS work. The best ways to reach me:
